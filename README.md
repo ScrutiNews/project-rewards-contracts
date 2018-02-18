@@ -8,6 +8,7 @@ This is repo is for Ethereum Smart Contracts for the following functions:
 
 ## Co-dependencies:
 https://github.com/ScrutiNews/project-rewards-api
+
 https://github.com/ScrutiNews/project-rewards-ui
 
 
