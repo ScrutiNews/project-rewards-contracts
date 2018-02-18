@@ -3,7 +3,7 @@ Smart Contracts for the 'Project Rewards' collaboration tool. The Smart Contract
 
 ## Purpose
 This is repo is for Ethereum Smart Contracts for the following functions:
-* Token Creation and Issuance (ERC-20)
+* Token Creation and Issuance (ERC-20), as per https://github.com/ethereum/eips/issues/20
 * Facilitates payments between Ethereum accounts
 
 ## Co-dependencies:
