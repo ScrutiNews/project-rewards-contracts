@@ -9,33 +9,31 @@ Notes taken from the Solidy docs: https://solidity.readthedocs.io/en/develop/typ
 
 Fixed Point Numbers: Not fully supported (A certain number of bits are allocated to the integer (left of decimal) and a certain number to the fractional part (right of decimal)
 
-Address:
+### Address:
 
+### Fixed-size byte arrays:
 
+### Dynamically sized byte arrays:
 
-Fixed-size byte arrays:
+### Address Literals:
 
-Dynamically sized byte arrays:
+### Rational and Integer Literals:
 
-Address Literals:
+### String Literals:
 
-Rational and Integer Literals:
+### Hexadecimal Literals:
 
-String Literals:
+### Enums: 
 
-Hexadecimal Literals:
-
-Enums: 
-
-Function Types:
+### Function Types:
 
 
 ## Reference Types (Cpmplex Types so copying, as in values, would be expensive):
 Note: Data location is important. Should it be stored in 'memory' or 'storage'?
 
-Arrays:
+### Arrays:
 
-Structs:
+### Structs:
 
 ## Mappings:
 
